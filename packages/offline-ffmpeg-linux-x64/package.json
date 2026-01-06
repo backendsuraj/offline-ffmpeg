@@ -1,0 +1,22 @@
+{
+    "name": "@backendsuraj/offline-ffmpeg-linux-x64",
+    "version": "8.0.1",
+    "description": "The ffmpeg binary for linux-x64",
+    "os": [
+        "linux"
+    ],
+    "cpu": [
+        "x64"
+    ],
+    "scripts": {
+        "postinstall": "chmod u+x bin/ffmpeg || exit 0"
+    },
+    "main": "index.js",
+    "types": "index.d.ts",
+    "author": "Suraj",
+    "license": "LGPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/backendsuraj/offline-ffmpeg"
+    }
+}

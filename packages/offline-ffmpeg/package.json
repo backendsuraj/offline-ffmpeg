@@ -1,0 +1,20 @@
+{
+    "name": "@backendsuraj/offline-ffmpeg",
+    "version": "8.0.1",
+    "description": "Platform independent binary installer of FFmpeg for node projects (Offline Friendly)",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "author": "Suraj",
+    "license": "LGPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/backendsuraj/offline-ffmpeg"
+    },
+    "optionalDependencies": {
+        "@backendsuraj/offline-ffmpeg-win32-x64": "8.0.1",
+        "@backendsuraj/offline-ffmpeg-linux-x64": "8.0.1"
+    }
+}
