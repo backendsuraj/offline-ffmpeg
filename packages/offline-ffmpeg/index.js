@@ -30,4 +30,4 @@ if (!fs.existsSync(ffmpegPath)) {
 }
 
 exports.path = ffmpegPath;
-exports.version = '8.0.1';
+exports.version = '8.0.2';

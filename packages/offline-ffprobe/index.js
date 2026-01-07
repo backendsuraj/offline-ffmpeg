@@ -30,4 +30,4 @@ if (!fs.existsSync(ffprobePath)) {
 }
 
 exports.path = ffprobePath;
-exports.version = '8.0.1';
+exports.version = '8.0.2';

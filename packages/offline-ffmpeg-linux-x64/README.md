@@ -13,4 +13,4 @@
 This package contains the static `ffmpeg` binary for Linux x64.
 - **Source**: [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds/releases)
 - **Version**: 8.0.0
-- **License**: LGPL 3.0
+- **License**: GPL 3.0

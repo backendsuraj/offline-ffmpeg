@@ -15,7 +15,7 @@ These packages are specifically designed for **corporate and offline environment
 ## Binary Source & License
 The bundled binaries are built by [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds/releases).
 - **Version**: 8.0.0
-- **License**: LGPL 3.0 (GPL capabilities disabled)
+- **License**: GPL 3.0
 
 ## Packages
 

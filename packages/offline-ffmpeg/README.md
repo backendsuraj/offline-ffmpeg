@@ -35,7 +35,7 @@ fluentFfmpeg('input.mp4').save('output.mp3');
 ## Binary Details
 - **Source**: [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds/releases)
 - **Version**: 8.0.0
-- **License**: LGPL 3.0
+- **License**: GPL 3.0
 
 ## Supported Platforms
 | OS | Architecture | Status |
