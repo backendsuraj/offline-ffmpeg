@@ -1,6 +1,6 @@
 {
     "name": "@backendsuraj/offline-ffprobe",
-    "version": "8.0.2",
+    "version": "8.0.3",
     "description": "Platform independent binary installer of FFprobe for node projects (Offline Friendly)",
     "main": "index.js",
     "types": "index.d.ts",
